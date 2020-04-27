@@ -1,0 +1,9 @@
+C:\Users\carineallen\Documents\Coding Projects\FractionsFunc\FractionsFunc\bin\Debug\netstandard2.0\FractionsFunc.deps.json
+C:\Users\carineallen\Documents\Coding Projects\FractionsFunc\FractionsFunc\bin\Debug\netstandard2.0\FractionsFunc.dll
+C:\Users\carineallen\Documents\Coding Projects\FractionsFunc\FractionsFunc\bin\Debug\netstandard2.0\FractionsFunc.pdb
+C:\Users\carineallen\Documents\Coding Projects\FractionsFunc\FractionsFunc\obj\Debug\netstandard2.0\FractionsFunc.csprojAssemblyReference.cache
+C:\Users\carineallen\Documents\Coding Projects\FractionsFunc\FractionsFunc\obj\Debug\netstandard2.0\FractionsFunc.csproj.CoreCompileInputs.cache
+C:\Users\carineallen\Documents\Coding Projects\FractionsFunc\FractionsFunc\obj\Debug\netstandard2.0\FractionsFunc.AssemblyInfoInputs.cache
+C:\Users\carineallen\Documents\Coding Projects\FractionsFunc\FractionsFunc\obj\Debug\netstandard2.0\FractionsFunc.AssemblyInfo.cs
+C:\Users\carineallen\Documents\Coding Projects\FractionsFunc\FractionsFunc\obj\Debug\netstandard2.0\FractionsFunc.dll
+C:\Users\carineallen\Documents\Coding Projects\FractionsFunc\FractionsFunc\obj\Debug\netstandard2.0\FractionsFunc.pdb

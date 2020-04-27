@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ekZ9vKg77INlNq9decwptc+ihA1ckpMzPzC9rzEU/Rt4l0yrJ04j9hNy6qM4RsTRFRwE8uZikwrKPcD2bXoBJg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\carineallen\\Documents\\Coding Projects\\FractionsFunc\\FractionsFunc\\FractionsFunc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
